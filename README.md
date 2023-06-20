@@ -6,7 +6,8 @@
 
 - Cards
 - Testimonials
-in progress...
+- modal
+- in progress...
 
 ### To view the components access the link: https://www.instagram.com/andreahcodes/
 
